@@ -1,0 +1,19 @@
+[02:35:10] [User Authenticator #17/INFO]: UUID of player Nolsterss is 3b77b360-45e8-4ef2-8750-78d4458af380
+[02:35:10] [Server thread/INFO]: Nolsterss[/99.249.206.84:50566] logged in with entity id 145986 at (7.103916331155116, 62.073264739703426, -171.82430154049155)
+[02:35:10] [Server thread/INFO]: Nolsterss joined the game
+[02:36:32] [Server thread/INFO]: Nolsterss lost connection: Disconnected
+[02:36:32] [Server thread/INFO]: Nolsterss left the game
+[02:39:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[13:21:50] [Server thread/INFO]: Stopping the server
+[13:21:50] [Server thread/INFO]: Stopping server
+[13:21:50] [Server thread/INFO]: Saving players
+[13:21:50] [Server thread/INFO]: Saving worlds
+[13:21:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[13:21:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:21:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[13:21:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:21:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[13:21:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:21:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:21:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:21:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
